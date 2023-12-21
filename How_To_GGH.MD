@@ -1,61 +1,51 @@
 # Gotta Go Talk 
 
-## Qu'est ce que c'est ?
+## Qu'est-ce que c'est ?
 
-Gotta Go Talk est une série de talk entreprenarial à thème organisé par l'association [Gotta Go Hack](https://www.gottagohack.fr/). Ces talks sont organisés tous les 2 mois et sont l'occasion de rencontrer des entrepreneurs pour échanger sur leur parcours et des différents conseils qu'ils ont à donner.
+**Gotta Go Talk** est une série de talks thématiques entrepreneurial, organisée par l'association [Gotta Go Hack](https://www.gottagohack.fr/). Ces talks, tenus tous les deux mois, offrent l'opportunité de rencontrer et d'échanger avec des entrepreneurs, et de bénéficier de leurs conseils.
 
-## Comment organisé un GGT ?
+## Organisation d'un GGT
 
-### 1. Trouver le thème
+### 1. Trouver le Thème
 
-C'est la base même des talks, il faut trouver un thème qui va intéresser les gens et leur apporter quelque chose. Pour cela, il faut se poser les questions suivantes :
+Le choix du thème est crucial. Il doit être à la fois intéressant et utile. Posez-vous les questions suivantes :
 
-- Qu'est ce qui pourrait intéresser les gens ?
-- Qu'est ce qui pourrait les aider ?
+- Quels sujets captiveraient le public ?
+- Quels conseils pourraient être bénéfiques ?
 
-### 2. Trouver les speakers
+### 2. Sélectionner les Intervenants
 
-Une fois le thème trouvé, il faut trouver les speakers qui vont pouvoir parler du sujet. 
-Une fois que l'on a trouvé les speakers idéaux, il faut les contacter pour leur proposer d'intervenir:
+Après avoir défini le thème, il faut choisir des intervenants experts dans le sujet. Les contacter peut se faire de différentes manières :
 
-- Soit par mail
-- Soit par téléphone
-- Soit par LinkedIn
-- Soit contacté leur entreprise
-- Se rendre à leur bureau
+- Par e-mail
+- Par téléphone
+- Via LinkedIn
+- En contactant leur entreprise
+- En visitant leurs bureaux
 
-### 3. Programmé un appel avec les speakers
+### 3. Planifier un Appel avec les Intervenants
 
-Une fois que les speakers ont accepté de participer au talk, il faut programmer un appel avec eux pour discuter du talk et de ce qu'ils vont présenter. C'est aussi l'occasion de leur demander si ils sont ok pour être filmé/pris en photo. 
+Suite à leur accord, organisez un appel pour discuter des détails du talk, vérifier leur accord pour être filmés ou photographiés, et leur présenter les grandes lignes de leur intervention.
 
-Lors de cet appel, il faut leur présenter le thème du talk, le déroulement de la soirée et ce dont on aimerait qu'ils parlent (possible de leur prémacher les slides avec des bullets point déjà préparés). Il faut que les speakers ait le moins de choses à faire. Il faut aussi programmer une date pour le talk.
+### 4. Réserver les Salles et le Matériel
 
-### 4. Reservé les salles et le matériel
+Une fois la date fixée, réservez les salles (actuellement, Conway et Marie Curie). Préparez également une fiche événement.
 
-Une fois que l'on a la date du talk, il faut réserver les salles. Pour cela, il faut faire une fiche event.
+### 5. Communication
 
-Pour l'instant, on utilise les salles Conway et Marie Curie. 
+- Publier un post sur LinkedIn
+- Imprimer des flyers et affiches
+- Communiquer sur Instagram
+- En parler dans votre réseau
+- Informer la communication d'Epitech/Epita
 
-### 5. Faire la communication
+### 6. Réaliser le Talk
 
-Une fois que l'on a la date du talk, il faut faire la communication. Pour cela:
+Le jour J, arrivez en avance pour tout préparer :
 
-- Faire un post sur LinkedIn
-- Imprimer des flyers
-- Imprimer des affiches
-- Faire un post sur Instagram
-- En parler autour de soi
-- En parler à la communication Epitech/Epita
-
-### 6. Faire le talk
-
-Le jour du talk, il faut arriver en avance pour préparer la salle et le matériel.
-
-On a besoin de:
-
-- Une télécommande pour changer de slide
-- Un micro (si la salle est grande)
-- 1 personnes pour prendre des photos
-- 1 personnes pour filmer
-- 2 personnes pour accueillir les gens
-- 2 personnes pour préparer/ranger la/les salle à la fin du talk
+- Télécommande pour les slides
+- Micro (pour les grandes salles)
+- 1 photographe
+- 1 vidéaste
+- 2 personnes à l'accueil
+- 2 personnes pour l'installation et le rangement
